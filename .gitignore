@@ -3,6 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Unity generated files Temp/ Obj/ Library/ Logs/ MemoryCaptures/ Build/ Builds/
+
 # User-specific files
 *.rsuser
 *.suo
